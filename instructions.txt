@@ -1,0 +1,18 @@
+Step #1. Install the module pyautogui using the terminal in pycharm (located on the bottom left of the editor) type pip install pyautogui. YOU MUST USE PYCHARM FOR THIS PROGRAM
+you can use other editors i belive but pycharm was the only editor that worked for me.YOU SCREEN MUST BE 1920 x 1080 if it isnt your going to have to find your screen size 
+
+Step #2. import the module pyautogui as well as time than copy the code
+
+Step #3. Run the program and MAKE SURE YOU HAVE YOUR BROWSER GOOGLE CHROME ALREADY OPENED ONCE YOU OPEN IT LEAVE IT.....ALSO MAKE SURE YOUR SIGNED INTO ALREADY TO YOUR GMAIL 
+ACCOUNT
+
+USEFUL LINKS
+How to find your screen size on mac:https://superuser.com/questions/131505/how-can-i-find-out-the-screen-resolution-and-dpi-on-my-mac-book-pro#:~:text=Open%20the%20Apple%20menu%20at,tell%20you%20your%20screen%20resolution.
+
+How to find your screen size on windows: https://support.microsoft.com/en-us/windows/view-display-settings-in-windows-10-37f0e05e-98a9-474c-317a-e85422daa8bb
+
+CONTACT ME:
+Email: dillpickles432@gmail.com 
+Discord: dillythecoder#3933
+Discord server: https://discord.gg/8GEUcJ2CUF
+Instagram: https://www.instagram.com/dillpicklesthesavage/
